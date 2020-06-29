@@ -8,7 +8,7 @@ def petal (turtle,petalnum):
     turtle.forward(100)
     turtle.left(51.15)
     turtle.forward(100)
-petalnum= 10
+petalnum= int(input("How many petals on the flower?"))
 degrees = 0
 turtle1.speed(0)
 
